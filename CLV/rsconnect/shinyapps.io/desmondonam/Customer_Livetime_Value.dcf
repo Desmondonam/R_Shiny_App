@@ -1,0 +1,12 @@
+name: Customer_Livetime_Value
+title: Customer_Livetime_Value
+username: desmondonam
+account: desmondonam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10833841
+bundleId: 8071497
+url: https://desmondonam.shinyapps.io/Customer_Livetime_Value/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
